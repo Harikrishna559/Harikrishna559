@@ -69,3 +69,10 @@ Interactive calculator with modern UI.
 
 ## 📈 GitHub Stats
 
+
+![Hari Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishna559&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna559&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harikrishna559&theme=tokyonight)
+
