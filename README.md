@@ -76,3 +76,80 @@ Interactive calculator with modern UI.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harikrishna559&theme=tokyonight)
 
+## 🏆 Certifications
+
+* NPTEL IoT (Elite)
+
+* DecodeLabs AI Internship
+
+* Codec Technologies Python Developer Internship
+
+* [**Professional UI/UX Design & Web Prototyping**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2916773502/)** virtual internship certificate **
+
+* [**Campus Ambassador**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2907906437/)
+
+  [SmartED Innovations](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2907906437/)\
+
+* [**AI - ML Virtual internship**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2818713370/)
+
+  [Google for Developers · Internship](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2818713370/)
+
+* [**Post Graduation Diploma In Computer Application**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2857069387/)
+
+  [Global-IQ Software Training](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2857069387/)
+
+* **Mahindra Rise (in collaboration with Breath Beings)**
+
+* **Critical Thinking in the AI Era**
+
+  HP LIFE
+
+* **Getting Started with Artificial Intelligence**
+
+  Student Ambassador Program with IBM SkillsBuild\
+
+* **DUET AI IN GOOGLE SLIDES**
+
+  Simplilearn
+
+* **AAKAAR  IIT BOMBAY**
+
+  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, KAKINADA (JNTUK)
+
+* **TATA Crucible Campus Quiz**
+
+  Tata Group
+
+* **Data Science & Analytics**
+
+  HP LIFE
+
+* **Chat GPT for YouTube Video Creation**
+
+  Simplilearn
+
+* **C programming Basics : kick start your programming career**
+
+  Simplilearn
+
+* **AI-first Software Engineering**
+
+  Infosys Springboard
+
+* **AI Agent Builder workshop**
+
+  BOT Campus AI
+
+* **Tata - GenAI Powered Data Analytics Job Simulation**
+
+  Forage
+
+* **Deloitte Australia - Data Analytics Job Simulation**
+
+  Forage
+
+* **Google Analytics Certification**
+
+  United Latino Students Association
+
+
