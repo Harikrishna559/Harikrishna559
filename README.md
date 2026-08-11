@@ -1,155 +1,188 @@
-# Hi 👋, I'm Kolli Hari Krishna
+# 👋 Hi, I'm Kolli Hari Krishna
 
-### Final Year B.Tech CSE Student | Python Developer | Full Stack Developer | Aspiring Software Engineer
+### 🎓 Final Year B.Tech CSE Student | 💻 Aspiring Software Engineer | 🐍 Python Developer | 🚀 Full Stack Developer
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Harikrishna559&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science & Engineering Student
+🎓 Final-year B.Tech Computer Science & Engineering student passionate about building real-world software solutions.
 
-💻 Passionate about Software Development, Full Stack Development, and Data Analytics
+💻 Interested in **Software Development, Full Stack Development, Artificial Intelligence, Machine Learning, and Data Analytics**.
 
-🌱 Currently learning Java, Spring Boot, MySQL, React.js, and Cloud Technologies
+🌱 Currently learning **Java, Spring Boot, MySQL, React.js, Cloud Technologies, and Data Structures & Algorithms**.
 
-🏭 Working on an ERP-Based Steel Order, Vehicle Allocation & Delivery Tracking System during my internship at Vizag Steel Plant
+🏭 Currently working on an **ERP-Based Steel Order, Vehicle Allocation & Delivery Tracking System** during my internship at Vizag Steel Plant.
 
-🐍 Skilled in Python Programming, Web Development, Database Management, and GitHub
+🐍 Experienced with **Python, Java, Web Development, Databases, Git, and GitHub**.
 
-📊 Interested in Data Analytics, Artificial Intelligence, Machine Learning, and Real-World Software Solutions
+🚀 My goal is to become a strong **Software Engineer** and build scalable, useful, and user-friendly applications.
 
-🚀 Aspiring Software Engineer with a strong interest in building scalable and user-friendly applications
-
-📫 Reach me at: [hari.kolli559@gmail.com](mailto:hari.kolli559@gmail.com)
-
-⚡ Fun Fact: I enjoy transforming real-world problems into software solutions and continuously learning new technologies.
+📫 **Email:** [hari.kolli559@gmail.com](mailto:hari.kolli559@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,spring" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 📊 Data & AI
 
 * Python
-* Java
-* HTML5
-* CSS3
-* JavaScript
-* MySQL
-* Spring Boot
-* Git
-* GitHub
+* Pandas
+* Scikit-learn
 * Power BI
-* React.js
-* VS Code
+* Machine Learning
+* Artificial Intelligence
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-### ERP-Based Steel Order Management System
+### 🏭 Full Stack Developer Intern — Vizag Steel Plant (RINL)
 
-Industry-level project developed during Vizag Steel Plant InternshiP
+* Developing an **ERP-Based Steel Order Management System**.
+* Working with **Java, Spring Boot, MySQL, HTML, CSS, and JavaScript**.
+* Working on order management, vehicle allocation, dispatch, and delivery tracking workflows.
+* Gaining experience in real-world industrial software development.
 
-### CodeAlpha Image Gallery
+### 🤖 Artificial Intelligence Intern — Decode Labs
 
-Responsive image gallery using HTML, CSS, and JavaScript.
+* Worked on AI/ML concepts and practical projects.
+* Gained hands-on experience with artificial intelligence technologies.
 
-### CodeAlpha Calculator
+### 🐍 Python Developer Intern — Codec Technologies
 
-Interactive calculator with modern UI.
+* Developed Python-based applications and projects.
+* Strengthened Python programming and problem-solving skills.
+
+### 🌐 Frontend Developer Intern — CodeAlpha
+
+* Developed responsive frontend applications.
+* Worked with HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 ERP-Based Steel Order Management System
+
+An ERP-based system designed to manage steel orders, vehicle allocation, dispatch, and delivery tracking.
+
+**Tech Stack:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript
+
+---
+
+### 📸 Smart Attendance System
+
+A smart attendance management system designed to automate attendance using face recognition and web technologies.
+
+**Tech Stack:** Python • Face Recognition • OpenCV • Web Development
+
+---
+
+### 🖼️ CodeAlpha Image Gallery
+
+A responsive image gallery built using modern frontend technologies.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+### 🧮 CodeAlpha Calculator
+
+An interactive calculator application with a responsive user interface.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+## 🏆 Certifications & Learning
+
+* 🏅 NPTEL — Internet of Things (Elite)
+* 🤖 Artificial Intelligence Internship — Decode Labs
+* 🐍 Python Developer Internship — Codec Technologies
+* 🌐 Frontend Development Internship — CodeAlpha
+* 🤖 AI-ML Virtual Internship — Google for Developers
+* 🎨 Professional UI/UX Design & Web Prototyping
+* 📊 Data Science & Analytics — HP LIFE
+* 🤖 Getting Started with Artificial Intelligence
+* 🧠 Critical Thinking in the AI Era — HP LIFE
+* 💡 AI-first Software Engineering — Infosys Springboard
+* 🤖 AI Agent Builder Workshop
+* 📊 Tata GenAI Powered Data Analytics Job Simulation — Forage
+* 📊 Deloitte Australia Data Analytics Job Simulation — Forage
+* 💻 C Programming Basics — Simplilearn
+* 📈 Google Analytics Certification
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna559&show_icons=true&theme=tokyonight" alt="Hari Krishna's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna559&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Harikrishna559&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harikrishna559&theme=tokyonight" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/kolli-hari-krishna-588777321](http://www.linkedin.com/in/kolli-hari-krishna-588777321)
-* GitHub: github.com/Harikrishna559
-* Email: [hari.kolli559@gmail.com](mailto:hari.kolli559@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kolli-hari-krishna-588777321">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Harikrishna559">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
+
+📧 **Email:** [hari.kolli559@gmail.com](mailto:hari.kolli559@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+### ⭐ Thanks for visiting my profile!
 
-
-![Hari Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishna559&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna559&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harikrishna559&theme=tokyonight)
-
-## 🏆 Certifications
-
-* NPTEL IoT (Elite)
-
-* DecodeLabs AI Internship
-
-* Codec Technologies Python Developer Internship
-
-* [**Professional UI/UX Design & Web Prototyping**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2916773502/)** virtual internship certificate **
-
-* [**Campus Ambassador**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2907906437/)
-
-  [SmartED Innovations](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2907906437/)\
-
-* [**AI - ML Virtual internship**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2818713370/)
-
-  [Google for Developers · Internship](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2818713370/)
-
-* [**Post Graduation Diploma In Computer Application**](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2857069387/)
-
-  [Global-IQ Software Training](https://www.linkedin.com/in/kolli-hari-krishna-588777321/details/experience/edit/forms/2857069387/)
-
-* **Mahindra Rise (in collaboration with Breath Beings)**
-
-* **Critical Thinking in the AI Era**
-
-  HP LIFE
-
-* **Getting Started with Artificial Intelligence**
-
-  Student Ambassador Program with IBM SkillsBuild\
-
-* **DUET AI IN GOOGLE SLIDES**
-
-  Simplilearn
-
-* **AAKAAR  IIT BOMBAY**
-
-  JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY, KAKINADA (JNTUK)
-
-* **TATA Crucible Campus Quiz**
-
-  Tata Group
-
-* **Data Science & Analytics**
-
-  HP LIFE
-
-* **Chat GPT for YouTube Video Creation**
-
-  Simplilearn
-
-* **C programming Basics : kick start your programming career**
-
-  Simplilearn
-
-* **AI-first Software Engineering**
-
-  Infosys Springboard
-
-* **AI Agent Builder workshop**
-
-  BOT Campus AI
-
-* **Tata - GenAI Powered Data Analytics Job Simulation**
-
-  Forage
-
-* **Deloitte Australia - Data Analytics Job Simulation**
-
-  Forage
-
-* **Google Analytics Certification**
-
-  United Latino Students Association
-
-
+> *"Learning every day. Building every day. Becoming better every day."* 🚀
