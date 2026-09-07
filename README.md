@@ -82,12 +82,6 @@
 * Developed Python-based applications and projects.
 * Strengthened Python programming and problem-solving skills.
 
-### 🌐 Frontend Developer Intern — CodeAlpha
-
-* Developed responsive frontend applications.
-* Worked with HTML, CSS, and JavaScript.
-
----
 
 ## 🚀 Featured Projects
 
@@ -97,23 +91,12 @@ An ERP-based system designed to manage steel orders, vehicle allocation, dispatc
 
 **Tech Stack:** Java • Spring Boot • MySQL • HTML • CSS • JavaScript
 
----
-
-### 📸 Smart Attendance System
-
-A smart attendance management system designed to automate attendance using face recognition and web technologies.
-
-**Tech Stack:** Python • Face Recognition • OpenCV • Web Development
-
----
 
 ### 🖼️ CodeAlpha Image Gallery
 
 A responsive image gallery built using modern frontend technologies.
 
 **Tech Stack:** HTML • CSS • JavaScript
-
----
 
 ### 🧮 CodeAlpha Calculator
 
