@@ -126,27 +126,9 @@ An interactive calculator application with a responsive user interface.
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harikrishna559&show_icons=true&theme=tokyonight" alt="Hari Krishna's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrishna559&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harikrishna559&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harikrishna559&theme=tokyonight" alt="GitHub Trophies" />
-</p>
 
 ---
 
